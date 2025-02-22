@@ -73,11 +73,11 @@
 
 | Metric | Value | Description |
 |--------|--------|-------------|
-| 🎯 Accuracy | 79.35% | Overall prediction accuracy |
-| 📈 Precision | 63.79% | Accuracy of churn predictions |
-| 📉 Recall | 51.34% | Ability to detect actual churners |
-| ⚖️ F1 Score | 56.89% | Balance of precision and recall |
-| 📊 ROC AUC | 83.48% | Model's discriminative ability |
+| 🎯 Accuracy | 80.62% | Overall prediction accuracy |
+| 📈 Precision | 69.80% | Accuracy of churn predictions |
+| 📉 Recall | 47.93% | Ability to detect actual churners |
+| ⚖️ F1 Score | 56.59% | Balance of precision and recall |
+| 📊 ROC AUC | 84.33% | Model's discriminative ability |
 
 </div>
 
