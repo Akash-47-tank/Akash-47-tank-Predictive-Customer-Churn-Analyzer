@@ -18,7 +18,7 @@
 ## 📸 Interface Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akash-47-tank/Akash-47-tank-Predictive-Customer-Churn-Analyzer/master/docs/images/app_interface.png" alt="Customer Churn Predictor Interface" width="800"/>
+  <img src="https://raw.githubusercontent.com/Akash-47-tank/Predictive-Customer-Churn-Analyzer/master/docs/images/app_interface.png" alt="Customer Churn Predictor Interface" width="800"/>
   <p><em>Interactive dashboard for customer churn prediction and analysis</em></p>
 </div>
 
