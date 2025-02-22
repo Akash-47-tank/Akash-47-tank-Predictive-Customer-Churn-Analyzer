@@ -1,6 +1,6 @@
 # Predictive Customer Churn Analyzer with Explainability
 
-A professional-grade customer churn prediction system that not only predicts customer churn but also provides clear explanations for the predictions. Built with Python, XGBoost, and SHAP, optimized for M1 Macs.
+A professional-grade customer churn prediction system that not only predicts customer churn but also provides clear explanations for the predictions. Built with Python, XGBoost, and SHAP.
 
 ## Features
 
