@@ -86,7 +86,7 @@
 ### 1️⃣ Clone & Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Predictive-Customer-Churn-Analyzer.git
+git clone https://github.com/Akash-47-tank/Predictive-Customer-Churn-Analyzer.git
 cd Predictive-Customer-Churn-Analyzer
 
 # Install dependencies
